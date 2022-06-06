@@ -1,0 +1,2 @@
+# Web-form-and-validation---database-JSONDB
+ This is a basic project to give a preview of a new emerging software JSONPOWERDB which is going to be the next generation DBMS with the following features: •It is Nimble and Simple to use.  •It is maintain (Schema Free).  •It is very fast to develop. •It is a multimode database ( one solution to variety of data ).  •It consumes low development cost.  •It has Multiple Security Levels. In the project, through the web form, data has been collected and stored in the database (JSONPOWERDB).
